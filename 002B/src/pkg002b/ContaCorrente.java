@@ -5,5 +5,14 @@ public class ContaCorrente {
    float saldo;
    boolean statusEspecial;
    float limite;
-   //movimentacoes
+   Movimentacoes movimentacoes;
+   
+//   ContaCorrente(Movimentacoes movimentacoes) {
+//       this.movimentacoes = movimentacoes;
+//   }
+   
+   ContaCorrente() {
+       
+   }
+
 }

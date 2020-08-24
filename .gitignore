@@ -24,3 +24,5 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 /usr/bin/bash: wq: command not found
+/002-B/nbproject/private/
+/002B/nbproject/private/
